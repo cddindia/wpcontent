@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="9.575238600000000" minlon="69.393910700000006" maxlat="33.769305500000002" maxlon="84.181508399999998"/></metadata>                   
+<wpt lat="28.1971741" lon="84.1815084">
+  <name>Location 1</name>
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="33.7693055" lon="77.5018209">
+  <name>Location 2</name>
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="28.5644757" lon="77.3480123">
+  <name>Location 3</name>
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="23.593412" lon="69.3939107">
+  <name>Location 4</name>
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.9879522" lon="72.5689595">
+  <name>Location 5</name>
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="21.1964201" lon="79.0728658">
+  <name>Location 6</name>
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="12.1858917" lon="76.8078279">
+  <name>Location 7</name>
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="12.7865715" lon="77.379117">
+  <name>Location 8</name>
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="12.9365211" lon="77.7965975">
+  <name>Location 9</name>
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="9.5752386" lon="76.4342928">
+  <name>Location 10</name>
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="12.1300997" lon="79.6533027">
+  <name>Location 11</name>
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="12.3019006" lon="79.895002">
+  <name>Location 12</name>
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="9.670614" lon="78.1371895">
+  <name>Location 13</name>
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="13.5226465" lon="80.0488106">
+  <name>Location 14</name>
+  <extensions>
+  </extensions>
+</wpt>
+</gpx>
